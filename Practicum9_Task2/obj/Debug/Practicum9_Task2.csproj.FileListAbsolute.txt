@@ -1,0 +1,8 @@
+D:\c_develop\projects\Practicum9\Practicum9_Task2\bin\Debug\Practicum9_Task2.exe.config
+D:\c_develop\projects\Practicum9\Practicum9_Task2\bin\Debug\Practicum9_Task2.exe
+D:\c_develop\projects\Practicum9\Practicum9_Task2\bin\Debug\Practicum9_Task2.pdb
+D:\c_develop\projects\Practicum9\Practicum9_Task2\obj\Debug\Practicum9_Task2.csproj.AssemblyReference.cache
+D:\c_develop\projects\Practicum9\Practicum9_Task2\obj\Debug\Practicum9_Task2.csproj.SuggestedBindingRedirects.cache
+D:\c_develop\projects\Practicum9\Practicum9_Task2\obj\Debug\Practicum9_Task2.csproj.CoreCompileInputs.cache
+D:\c_develop\projects\Practicum9\Practicum9_Task2\obj\Debug\Practicum9_Task2.exe
+D:\c_develop\projects\Practicum9\Practicum9_Task2\obj\Debug\Practicum9_Task2.pdb
