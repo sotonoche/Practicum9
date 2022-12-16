@@ -18,9 +18,6 @@ namespace Practicum9_Task2
             {
                 try
                 {
-                    Console.WriteLine("При запуске с github необходимо заранее создать текстовый файл в папке, \n" +
-                        "где находится исполняемый файл (.../bin/Debug/)");
-                    Console.WriteLine("___________________________________________________________________________________");
                     Console.Write("Введите имя файла и его расширение через точку: ");
                     fileName = Console.ReadLine();
                     Regex regex = new Regex(@"[A-Za-z].txt");
